@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://unniraveendra.com/</loc></url>
-  <url><loc>https://unniraveendra.com/about.html</loc></url>
-  <url><loc>https://unniraveendra.com/books.html</loc></url>
-  <url><loc>https://unniraveendra.com/gallery.html</loc></url>
-  <url><loc>https://unniraveendra.com/writings.html</loc></url>
-  <url><loc>https://unniraveendra.com/media.html</loc></url>
-  <url><loc>https://unniraveendra.com/contact.html</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.unniraveendra.com/</loc>
+    <image:image>
+      <image:loc>https://www.unniraveendra.com/assets/images/books/anunnaki-cover.jpg</image:loc>
+      <image:title>Anunnaki - 1: Adimagalude Udayon Book Cover</image:title>
+      <image:caption>Book cover of Anunnaki - 1: Adimagalude Udayon by Unni Raveendra</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.unniraveendra.com/assets/images/gallery/unni-raveendra.png</image:loc>
+      <image:title>Unni Raveendra - Author Portrait</image:title>
+      <image:caption>Official portrait of Malayalam novelist and author Unni Raveendra</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.unniraveendra.com/books.html</loc>
+    <image:image>
+      <image:loc>https://www.unniraveendra.com/assets/images/books/anunnaki-cover.jpg</image:loc>
+      <image:title>Anunnaki - 1: Adimagalude Udayon by Unni Raveendra</image:title>
+      <image:caption>Official cover for the novel Anunnaki - 1: Adimagalude Udayon</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.unniraveendra.com/about.html</loc>
+    <image:image>
+      <image:loc>https://www.unniraveendra.com/assets/images/author/unni-raveendra.jpeg</image:loc>
+      <image:title>Unni Raveendra - Author Biography</image:title>
+      <image:caption>Unni Raveendra author portrait</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.unniraveendra.com/gallery.html</loc>
+    <image:image>
+      <image:loc>https://www.unniraveendra.com/assets/images/gallery/unni-raveendra.png</image:loc>
+      <image:title>Unni Raveendra Portrait</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.unniraveendra.com/assets/images/gallery/unni-ravindra-writter.png</image:loc>
+      <image:title>Unni Raveendra Writer Portrait</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.unniraveendra.com/assets/images/gallery/unni-raveendra-xilligence.png</image:loc>
+      <image:title>Unni Raveendra Author Photo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.unniraveendra.com/assets/images/gallery/unni-raveendra-auther.jpeg</image:loc>
+      <image:title>Author Unni Raveendra</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.unniraveendra.com/assets/images/gallery/Anunaki-adimakalude-udayon-cover-publish.jpeg</image:loc>
+      <image:title>Anunnaki Book Cover Reveal</image:title>
+      <image:caption>Anunnaki - 1: Adimagalude Udayon book cover release</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.unniraveendra.com/assets/images/books/anunnaki-cover.jpg</image:loc>
+      <image:title>Anunnaki Novel Artwork</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.unniraveendra.com/writings.html</loc>
+  </url>
+  <url>
+    <loc>https://www.unniraveendra.com/media.html</loc>
+  </url>
+  <url>
+    <loc>https://www.unniraveendra.com/contact.html</loc>
+  </url>
 </urlset>
